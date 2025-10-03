@@ -21,10 +21,10 @@ My Electrical Company is changing their billing pattern, and this project utiliz
   * Off Peak Time Period: All other Times
     * Summer Price / kWh
       * Dates: June 1 - Sep. 30
-      * Price: $0.21277
+      * Price: $0.07884
     * Winter Price / kWh
       * Dates: Oct. 1 - May 31
-      * Price: $0.18331
+      * Price: $0.06792
 
 ## Technical Details
 This project should utilize a Jupyter Notebook
